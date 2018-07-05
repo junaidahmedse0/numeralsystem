@@ -1,0 +1,5 @@
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QueustionSix\QueustionSix\bin\Debug\QueustionSix.exe.config
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QueustionSix\QueustionSix\bin\Debug\QueustionSix.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QueustionSix\QueustionSix\bin\Debug\QueustionSix.pdb
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QueustionSix\QueustionSix\obj\Debug\QueustionSix.exe
+c:\users\junaid ahmed\documents\visual studio 2015\Projects\QueustionSix\QueustionSix\obj\Debug\QueustionSix.pdb
